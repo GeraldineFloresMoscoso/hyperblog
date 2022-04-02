@@ -1,5 +1,14 @@
 body{
-    color:aquamarine;
+    color:black;
     text-align: center;
     font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 70%;
+    padding: left;
+    border: 1px;
 }
